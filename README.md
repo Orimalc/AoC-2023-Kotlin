@@ -1,5 +1,7 @@
 # AoC-2023-Kotlin
+This is my first time participating to AoC and my first time using Kotlin.
 
+Template:
 Welcome to the Advent of Code[^aoc] Kotlin project created by [orimalc][github] using the [Advent of Code Kotlin Template][template] delivered by JetBrains.
 
 In this repository, orimalc is about to provide solutions for the puzzles using [Kotlin][kotlin] language.
